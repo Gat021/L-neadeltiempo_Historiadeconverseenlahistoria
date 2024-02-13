@@ -12,11 +12,14 @@ Informar sobre las diversas etapas de la publicidad de los tenis de "Converse" y
  
 Fuentes primarias: 
 https://converse.com.mx/quienes-somos 
+
 https://www.mobiliariocomercialmaniquies.com/blog/historia-de-las-converse-all-star/ 
+
 https://jobs.converse.com/es/about#
  
 Fuentes secundarias: 
 https://reinventandoelcalzado.es/historia-de-las-zapatillas-converse-all-star/ 
+
 https://blogdecapas.com/tag/converse/ 
  
  
