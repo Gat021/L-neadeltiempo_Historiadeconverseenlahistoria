@@ -11,6 +11,7 @@ Objetivos:
 Informar sobre las diversas etapas de la publicidad de los tenis de "Converse" y cómo pasó de los primeros comerciales hasta las recientes épocas de hace unos años, hasta la actualidad.  
  
 Fuentes primarias: 
+
 https://converse.com.mx/quienes-somos 
 
 https://www.mobiliariocomercialmaniquies.com/blog/historia-de-las-converse-all-star/ 
@@ -18,6 +19,7 @@ https://www.mobiliariocomercialmaniquies.com/blog/historia-de-las-converse-all-s
 https://jobs.converse.com/es/about#
  
 Fuentes secundarias: 
+
 https://reinventandoelcalzado.es/historia-de-las-zapatillas-converse-all-star/ 
 
 https://blogdecapas.com/tag/converse/ 
