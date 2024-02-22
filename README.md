@@ -1,4 +1,3 @@
-# L-neadeltiempo_Historiadeconverseenlahistoria
 # Historia de Converse en su Publicidad   
 ## 1. Descripción del proyecto  
 
@@ -39,7 +38,7 @@ Los títulos, subtítulos, textos y fotos buscan resaltar dicha evolución que v
 - Analizar e informarse sobre los datos de importancia y de relevancia que tiene la marca por medio de los anuncios publicitarios desde inicios hasta lo más reciente. 
 - Documentar la información sobre la historia de la publicidad en la marca Converse 
  
-Se usó la herramienta TimeLine SJ por ser de código abierto, especializada en líneas de tiempo y apta para proyectos de Humanidades Digitales. Se encuentra disponible gratuitamente aquí: https://timeline.knightlab.com 
+Se usó la herramienta TimeLine SJ por ser de código abierto, especializada en líneas de tiempo y apta para proyectos de Humanidades Digitales. Se encuentra disponible gratuitamente aquí: _**https://timeline.knightlab.com**_ 
 La herramienta exige la creación de una base de datos con distintos campos  descriptivos y la conexión con imágenes a través de ligas. Se usa a través de una plantilla de Google Docs y la visualización de datos es automática. 
  
 ## 4. Visualización y Presentación  
@@ -60,5 +59,5 @@ La documentación está almacenada en https://cdn.knightlab.com/libs/timeline3/l
 ## 6. Diseminación y Comunicación  
  
    - Compartir la documentación del proyecto y los resultados con la comunidad de personas que sean nicho de esta marca. 
- 
+
 #### Gómez, J,E. (2024) Publicidad de Converse en su Historia [Línea de tiempo, TimelineSJ]. https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Pl6tBEwL6foCOaSrYJCg5uouIsxmtL6eZeL819Xfw5w&font=Default&lang=en&initial_zoom=2&height=650
